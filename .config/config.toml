@@ -1,0 +1,6 @@
+# example of possible target hosts
+buildservers = [
+    "buildserver1.example.org",
+    "buildserver2.example.org",
+    "buildserver3.example.org",
+]
